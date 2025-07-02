@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloFromCSharp", "cSharpFundamentals\HelloFromCSharp.csproj", "{1A5A1D36-DDFC-C6F6-2E15-6BC887A0B0AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BethanysPieShopHRM", "BethanysPieShopHRM\BethanysPieShopHRM.csproj", "{350E982C-BB88-4B0B-9D0B-296340295AC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A5A1D36-DDFC-C6F6-2E15-6BC887A0B0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A5A1D36-DDFC-C6F6-2E15-6BC887A0B0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A5A1D36-DDFC-C6F6-2E15-6BC887A0B0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A5A1D36-DDFC-C6F6-2E15-6BC887A0B0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{350E982C-BB88-4B0B-9D0B-296340295AC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{350E982C-BB88-4B0B-9D0B-296340295AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{350E982C-BB88-4B0B-9D0B-296340295AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{350E982C-BB88-4B0B-9D0B-296340295AC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AC32057-F8F7-4D0A-9F76-855F0521705F}
+	EndGlobalSection
+EndGlobal
