@@ -19,3 +19,6 @@ hoursWorked = 125;
 hoursWorked = 148;
 
 //monthlyWage = true;
+
+const double interestRate = 0.05;
+interestRate = 0.06; // This will cause a compile-time error because interestRate is a constant
