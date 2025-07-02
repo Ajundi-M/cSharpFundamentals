@@ -22,3 +22,10 @@ hoursWorked = 148;
 
 const double interestRate = 0.05;
 //interestRate = 0.06 This will cause a compile-time error because interestRate is a constant
+
+string firstName = "Bethany";
+string lastName = "Smith";
+string emptyString = "";
+
+Console.WriteLine("Please enter your name: ");
+string name = Console.ReadLine();
