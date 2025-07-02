@@ -4,4 +4,4 @@ Console.Write("Please enter your first name: ");
 String firstName = Console.ReadLine();
 Console.Write("Please enter your last name: ");
 String lastName = Console.ReadLine();
-Console.WriteLine($"Hello, " + firstName + " " + lastName);
+Console.WriteLine($"hello, " + firstName + " " + lastName);
