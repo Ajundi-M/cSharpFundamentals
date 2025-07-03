@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BethanysPieShopHRM", "Betha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloFromCSharp", "HelloFromCSharp\HelloFromCSharp.csproj", "{6A19E129-2139-3FF6-8829-E9B683CE1866}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learning-the-c-syntax", "learning-the-c-syntax\learning-the-c-syntax.csproj", "{0B122991-B0A9-4BAE-8B14-309A85E93741}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingCode", "TestingCode\TestingCode.csproj", "{3265FB40-0D02-4E24-89C5-F394E0022444}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{6A19E129-2139-3FF6-8829-E9B683CE1866}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A19E129-2139-3FF6-8829-E9B683CE1866}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A19E129-2139-3FF6-8829-E9B683CE1866}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B122991-B0A9-4BAE-8B14-309A85E93741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B122991-B0A9-4BAE-8B14-309A85E93741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B122991-B0A9-4BAE-8B14-309A85E93741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B122991-B0A9-4BAE-8B14-309A85E93741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3265FB40-0D02-4E24-89C5-F394E0022444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3265FB40-0D02-4E24-89C5-F394E0022444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3265FB40-0D02-4E24-89C5-F394E0022444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3265FB40-0D02-4E24-89C5-F394E0022444}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
