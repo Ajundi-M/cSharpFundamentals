@@ -1,31 +1,38 @@
-﻿//string name_2 = Console.ReadLine();
-//string Name_2 = Console.ReadLine();
-///string 2Name = Console.ReadLine();
+﻿////string name_2 = Console.ReadLine();
+////string Name_2 = Console.ReadLine();
+/////string 2Name = Console.ReadLine();
 
-int monthlyWage = 1234;
+//int monthlyWage = 1234;
 
-int months = 12, bonus = 1000;
+//int months = 12, bonus = 1000;
 
-bool isActive = true;
+//bool isActive = true;
 
-double rating = 99.25;
+//double rating = 99.25;
 
-//byte numberOfEmployees = 300;
+////byte numberOfEmployees = 300;
 
-int hoursWorked;
+//int hoursWorked;
 
-hoursWorked = 125;
+//hoursWorked = 125;
 
-hoursWorked = 148;
+//hoursWorked = 148;
 
-//monthlyWage = true;
+////monthlyWage = true;
 
-const double interestRate = 0.05;
-//interestRate = 0.06 This will cause a compile-time error because interestRate is a constant
+//const double interestRate = 0.05;
+////interestRate = 0.06 This will cause a compile-time error because interestRate is a constant
 
-string firstName = "Bethany";
-string lastName = "Smith";
-string emptyString = "";
+//string firstName = "Bethany";
+//string lastName = "Smith";
+//string emptyString = "";
 
-Console.WriteLine("Please enter your name: ");
-string name = Console.ReadLine();
+//Console.WriteLine("Please enter your name: ");
+//string name = Console.ReadLine();
+
+int maxValue = int.MaxValue;
+int minValue = int.MinValue;
+
+
+
+Console.ReadLine();
